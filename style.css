@@ -1,0 +1,18 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 240px;
+    height: 600px;
+    border: 30px solid blue;
+    box-shadow: 8px 6px 9px black;
+    background-color: antiquewhite;
+    color: blue;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 30px;
+    padding: 10px 14px;
+}
