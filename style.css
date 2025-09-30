@@ -16,3 +16,22 @@
     border-radius: 30px;
     padding: 10px 14px;
 }
+
+.image img {
+    width: 300px;
+    height: 350px;
+    box-shadow: 13px 12px 10px black;
+    border-radius: 7px;
+}
+
+.image{
+    position: relative;
+    top: 100px;
+    width: 400px;
+    height: 440px;
+    background-color: antiquewhite;
+    box-shadow: 5px 5px 10px black;
+    border: 20px solid red;
+    border-radius: 12px;
+    padding: 19px 30px;
+}
